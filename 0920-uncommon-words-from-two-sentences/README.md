@@ -34,3 +34,17 @@
 	<li><code>s1</code> and <code>s2</code> do not have leading or trailing spaces.</li>
 	<li>All the words in <code>s1</code> and <code>s2</code> are separated by a single space.</li>
 </ul>
+
+
+# My Thoughts
+ - 처음 봤을 때, 간단한 해쉬로 푸는 방법이 생각나서 풀었음, 이런 문제는 많이 접해서 쉬운 난이도면 쉽게 가능
+
+## 풀이 과정
+
+## 어려웠던 점
+
+## 참고한 점 
+
+## 개선할 점
+
+## 추가 팁
