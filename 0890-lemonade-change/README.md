@@ -36,3 +36,20 @@ Since not every customer received the correct change, the answer is false.
 	<li><code>1 &lt;= bills.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>bills[i]</code> is either <code>5</code>, <code>10</code>, or <code>20</code>.</li>
 </ul>
+
+
+# My Thoughts
+ - stack으로 푸는 문제인건 쉽게 파악 가능했다
+ - 다만, 5달라 전부 환산 가능하다고 생각을 해버려서 너무 쉽게 생각한 나머지 한번 틀림
+
+## 풀이 과정
+ 1. 5달라는 그대로 5달라 지갑에 저장
+ 2. 10 달라, 20달라 받은 경우만 생각, 더 쉽게 풀기 위해서 각각의 경우를 나눔
+ 3. 간단한 조건, 반복문 사용해서 해결
+## 어려웠던 점
+
+## 참고한 점 
+
+## 개선할 점
+ - my_wallet_5, my_wallet_10 이라고 설정하고 급하게 했는데, 다른 사람들 솔루션 참고해서 수정 해보자
+## 추가 팁
