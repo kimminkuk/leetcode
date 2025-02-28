@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/kimminkuk/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
