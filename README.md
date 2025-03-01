@@ -8,6 +8,7 @@
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
+| [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/kimminkuk/leetcode/tree/master/3379-score-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
