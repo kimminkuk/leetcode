@@ -47,3 +47,9 @@
 	<li>Both arrays contain unique ids.</li>
 	<li>Both arrays are in&nbsp;strictly ascending order by id.</li>
 </ul>
+
+# My Thoughts
+ - 배열 두개를, 배열 하나에 우겨 넣고 sorted(arr, key=lambda x:x[0])으로 하려다가 같은 idx를 가진 element의 value를 신경쓰지 못하는 상황 발생
+ - 그래서 음.. 조금 고민하다가 dict의 특징과 매우 유사하다는 점을 발견해서 dict로 전향 후 해결
+
+
