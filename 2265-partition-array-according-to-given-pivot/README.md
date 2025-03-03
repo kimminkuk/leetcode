@@ -43,3 +43,7 @@ The relative ordering of the elements less than and greater than pivot is also m
 	<li><code>-10<sup>6</sup> &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
 	<li><code>pivot</code> equals to an element of <code>nums</code>.</li>
 </ul>
+
+# My Thoughts
+ - pivot 기준으로 lefts, equals, rights 나눠서 순서대로 구하면 간단하게 종료
+ 
