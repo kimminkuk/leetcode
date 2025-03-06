@@ -29,3 +29,8 @@
 	<li>For all <code>x</code> that <code>1 &lt;= x &lt;= n * n</code> there is exactly one <code>x</code> that is equal to exactly two of the grid members.</li>
 	<li>For all <code>x</code> that <code>1 &lt;= x &lt;= n * n</code> except two of them there is exatly one pair of <code>i, j</code> that <code>0 &lt;= i, j &lt;= n - 1</code> and <code>grid[i][j] == x</code>.</li>
 </ul>
+
+# My Thoughts
+  - 간단한 dict문제라고 생각해서
+  - 중복되는 key값 찾고
+  - 가우스덧셈 사용해서 1~n 없는 숫자 확인
