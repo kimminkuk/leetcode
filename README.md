@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/kimminkuk/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -61,6 +62,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
 
 
