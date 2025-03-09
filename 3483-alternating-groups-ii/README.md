@@ -1,3 +1,10 @@
+# My Thoughts
+ - Sliding Window 방법으로 풀려고 했는데..
+ - xor 연산에 꽂혀서, k 길이만큼의 0,1...을 처리해보려고 노력함
+ - 여기서 생각을 잘못해서, O(n2) 방법밖에 생각이 안남
+ - 더 좋은 생각이 안나서, 결국 솔루션 참고함 후...... 조금 아쉽네 거의 다 왔었는데 ㅠ뉸뉸
+ - 이 문제는 솔루션이 3개나 있기 때문에, 여러 방식을 참고해서 더 확인해보자
+
 <h2><a href="https://leetcode.com/problems/alternating-groups-ii">3483. Alternating Groups II</a></h2><h3>Medium</h3><hr><p>There is a circle of red and blue tiles. You are given an array of integers <code>colors</code> and an integer <code>k</code>. The color of tile <code>i</code> is represented by <code>colors[i]</code>:</p>
 
 <ul>
