@@ -1,23 +1,15 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
-        dq = deque()
-        w_color = 0
-        for i in range(k):
-            dq.append(blocks[i])
-            if blocks[i] == "W":
-                w_color += 1
-        
-        st = 0
-        _min = w_color
-        for i in range(k, len(blocks)):
-            
-            if dq[st] == "W":
-                w_color -= 1
-            dq.popleft()
-            
-            if blocks[i] == "W":
-                w_color += 1
-            dq.append(blocks[i])
-            if _min > w_color:
-                _min = w_color
+        left = 0
+        _min = len(blocks)
+        w_l = 0
+        for right in range(len(blocks)):
+            if blocks[right] == "W":
+                w_l += 1
+            if right - left + 1 == k:
+                _min = min(_min, w_l)                
+                if blocks[left] == "W":
+                    w_l -= 1                
+                left += 1
+                    
         return _min
