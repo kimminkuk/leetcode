@@ -1,3 +1,7 @@
+# 생각
+ - 예전에 풀었던거라 쉽게 품, 근데 처음에 풀 때는 리스트를 어떻게 코드로 풀어낼지 막막해서 잘 못풀었음
+ - 뭐 여전히 조금 어렵지만, 구상은 가능
+ - 
 <h2><a href="https://leetcode.com/problems/merge-two-sorted-lists">21. Merge Two Sorted Lists</a></h2><h3>Easy</h3><hr><p>You are given the heads of two sorted linked lists <code>list1</code> and <code>list2</code>.</p>
 
 <p>Merge the two lists into one <strong>sorted</strong> list. The list should be made by splicing together the nodes of the first two lists.</p>
