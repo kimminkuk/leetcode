@@ -1,3 +1,10 @@
+# 생각
+ - last position tracking 느낌으로 접근해서 성공은 함
+ - 아쉬운건, list, append 등등을 써서 겨우 겨우 풀어냄
+ - 솔루션을 보니, pos = [-1] * 3 사용해서, pos[ord(s[p]) - ord("a")] 등등을 사용 후, ans += 1 + min(pos) 함
+ - 훨씬 깔끔하게 풀었기 때문에, 보면서 반성..
+ - Sliding Window 생각은 바로 했는데, 코딩으로 풀기가 좀 어렵게 느껴져서 우회함
+ - 
 <h2><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters">1460. Number of Substrings Containing All Three Characters</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>&nbsp;consisting only of characters <em>a</em>, <em>b</em> and <em>c</em>.</p>
 
 <p>Return the number of substrings containing <b>at least</b>&nbsp;one occurrence of all these characters <em>a</em>, <em>b</em> and <em>c</em>.</p>
