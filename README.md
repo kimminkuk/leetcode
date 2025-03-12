@@ -36,6 +36,7 @@
 | ------- |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/kimminkuk/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimminkuk/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -88,6 +89,10 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kimminkuk/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/kimminkuk/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
 
 
