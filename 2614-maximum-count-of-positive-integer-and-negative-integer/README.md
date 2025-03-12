@@ -1,3 +1,6 @@
+# 생각
+ - 조금 고민 하다가.. Two-Pointer 처럼 bisect_left, bisect_right해서 O(logn)으로 품
+
 <h2><a href="https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer">2614. Maximum Count of Positive Integer and Negative Integer</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code> sorted in <strong>non-decreasing</strong> order, return <em>the maximum between the number of positive integers and the number of negative integers.</em></p>
 
 <ul>
