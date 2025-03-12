@@ -1,3 +1,12 @@
+# 생각
+ - 아..에라스토테네스체으로 프라임 넘버 데이터 만들어내고, 바로 대입하면 O(n2) 가 발생하는것은 확인
+ - 그래서... left <-> right 를 조사하는것을 어떻게 for (i...) 를 사용안하고 찾아낼까 고민함
+ - 하지만....생각처럼 잘 되지 않았음. 일단 실패한 계기는 예측으로 해볼려고 했음
+ - 예를 들어, left가 1, right가 1000000이면 left다음으로 예측가능한 right는 left+1이니깐
+ - for (left~right)로 에라스토 값을 계속 구함
+ - 좋은 생각이라고 판단했었지만, 소수를 구하기 애매한 값들이 나오면 시간 over가 발생함
+ - 결론적으로 In-Memory였나?? 메모이제이션(memoization)으로 판단했으면 쉽게 O(n2) 타임 over를 피할 수 있었음 아....
+
 <h2><a href="https://leetcode.com/problems/closest-prime-numbers-in-range">2610. Closest Prime Numbers in Range</a></h2><h3>Medium</h3><hr><p>Given two positive integers <code>left</code> and <code>right</code>, find the two integers <code>num1</code> and <code>num2</code> such that:</p>
 
 <ul>
