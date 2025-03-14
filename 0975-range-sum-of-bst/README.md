@@ -1,3 +1,8 @@
+# 생각
+  - 간단한 순회로 품
+  - 솔류션 보니깐, dfs로 푸는게 더 빨라 보였음
+  - dfs로 푸는것도 다시 한번 ㄱㄱ
+
 <h2><a href="https://leetcode.com/problems/range-sum-of-bst">975. Range Sum of BST</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> node of a binary search tree and two integers <code>low</code> and <code>high</code>, return <em>the sum of values of all nodes with a value in the <strong>inclusive</strong> range </em><code>[low, high]</code>.</p>
 
 <p>&nbsp;</p>
