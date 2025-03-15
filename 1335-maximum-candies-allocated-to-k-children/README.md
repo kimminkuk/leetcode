@@ -1,3 +1,9 @@
+# 생각
+  - 결론적으로 못풀었음......
+  - Two Pointer, binary search 느낌이 나서 시도 했지만, O(n2)로 동작하고 있어서 포기
+  - 사탕 숫자를 계속 반복문으로 나눌 생각을 했던거 일단 1차 실패
+  - candies의 element를 mid로 나누면, n명 한테 나눠줄 수 있는걸 쉽게 알 수 있었단 사실을 전혀 눈치 못챔..
+  - 한 두달 뒤에 다시 보자
 <h2><a href="https://leetcode.com/problems/maximum-candies-allocated-to-k-children">1335. Maximum Candies Allocated to K Children</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>candies</code>. Each element in the array denotes a pile of candies of size <code>candies[i]</code>. You can divide each pile into any number of <strong>sub piles</strong>, but you <strong>cannot</strong> merge two piles together.</p>
 
 <p>You are also given an integer <code>k</code>. You should allocate piles of candies to <code>k</code> children such that each child gets the <strong>same</strong> number of candies. Each child can be allocated candies from <strong>only one</strong> pile of candies and some piles of candies may go unused.</p>
