@@ -8,6 +8,7 @@
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kimminkuk/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kimminkuk/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/kimminkuk/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kimminkuk/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
