@@ -1,3 +1,6 @@
+# 생각
+  - 매우 쉬운 문제
+  - 2594. Minimum Time to Repair Cars 이거 풀다가, 12시 넘을거 같아서 빠르게 이거 하나 풀고 감
 <h2><a href="https://leetcode.com/problems/concatenation-of-array">2058. Concatenation of Array</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code>, you want to create an array <code>ans</code> of length <code>2n</code> where <code>ans[i] == nums[i]</code> and <code>ans[i + n] == nums[i]</code> for <code>0 &lt;= i &lt; n</code> (<strong>0-indexed</strong>).</p>
 
 <p>Specifically, <code>ans</code> is the <strong>concatenation</strong> of two <code>nums</code> arrays.</p>
