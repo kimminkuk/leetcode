@@ -1,3 +1,7 @@
+# 생각
+  - 간단한 dict 문제
+  - sort 후, 0<->1, 2<->3... 비교하는 솔루션도 괜찮았음
+
 <h2><a href="https://leetcode.com/problems/divide-array-into-equal-pairs">2308. Divide Array Into Equal Pairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting of <code>2 * n</code> integers.</p>
 
 <p>You need to divide <code>nums</code> into <code>n</code> pairs such that:</p>
