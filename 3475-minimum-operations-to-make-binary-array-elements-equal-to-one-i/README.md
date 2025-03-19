@@ -1,3 +1,8 @@
+# 생각
+  - window slicing 각이 보여서 풀 수 있었다.
+  - 다른 조건은 추가되지 않아서, O(n) 조건으로 풀 수 있었다
+  - 근데 솔루션1이 이해가 안감.. 컨디션 좋을 때 다시 보자 지금 너무 졸림
+
 <h2><a href="https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i">3475. Minimum Operations to Make Binary Array Elements Equal to One I</a></h2><h3>Medium</h3><hr><p>You are given a <span data-keyword="binary-array">binary array</span> <code>nums</code>.</p>
 
 <p>You can do the following operation on the array <strong>any</strong> number of times (possibly zero):</p>
