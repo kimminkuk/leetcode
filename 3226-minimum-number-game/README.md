@@ -1,3 +1,7 @@
+# 생각
+  - heapify, heappop 실제로 구현해서 풀었는데.. 왜 속도가 많이 느리지..??
+  - 설마 O(n*n) 인가?? 솔루션 좀 보기
+
 <h2><a href="https://leetcode.com/problems/minimum-number-game">3226. Minimum Number Game</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of <strong>even</strong> length and there is also an empty array <code>arr</code>. Alice and Bob decided to play a game where in every round Alice and Bob will do one move. The rules of the game are as follows:</p>
 
 <ul>
