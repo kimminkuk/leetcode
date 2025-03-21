@@ -1,3 +1,9 @@
+# 생각
+  - 다행히 성분의 조건들이 유니크하다는 설정이 있어서, 중복되는 재료를 생각 안해도 되기 때문에 조금 쉽게 품
+  - 다만,,, dict,list를 조합하는게 조금 헷갈렸음, 이거 C++로 풀 수 있나?? 스터디 필요
+  - 조금 어려웠던건 그림으로 그려보기전까지는 머리로 생각못했음
+  - 솔루션하고 c++로도 풀어보기
+
 <h2><a href="https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies">2220. Find All Possible Recipes from Given Supplies</a></h2><h3>Medium</h3><hr><p>You have information about <code>n</code> different recipes. You are given a string array <code>recipes</code> and a 2D string array <code>ingredients</code>. The <code>i<sup>th</sup></code> recipe has the name <code>recipes[i]</code>, and you can <strong>create</strong> it if you have <strong>all</strong> the needed ingredients from <code>ingredients[i]</code>. A recipe can also be an ingredient for <strong>other </strong>recipes, i.e., <code>ingredients[i]</code> may contain a string that is in <code>recipes</code>.</p>
 
 <p>You are also given a string array <code>supplies</code> containing all the ingredients that you initially have, and you have an infinite supply of all of them.</p>
