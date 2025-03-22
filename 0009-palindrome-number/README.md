@@ -1,3 +1,6 @@
+# 생각
+  - string으로 변환 후, 역순 비교 하면 바로 끝나지만... 나눗셈으로 풀어도 된다고 생각함
+  - %,// 조합으로 숫자를 1의 자리, 10의 자리.... 순서로 list에 저장해서, 중간 길이만큼만 비교 후 끝
 <h2><a href="https://leetcode.com/problems/palindrome-number">9. Palindrome Number</a></h2><h3>Easy</h3><hr><p>Given an integer <code>x</code>, return <code>true</code><em> if </em><code>x</code><em> is a </em><span data-keyword="palindrome-integer"><em><strong>palindrome</strong></em></span><em>, and </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
