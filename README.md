@@ -32,11 +32,13 @@
 | [0100-same-tree](https://github.com/kimminkuk/leetcode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
+| [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kimminkuk/leetcode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
+| [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -154,10 +156,15 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
 
 
