@@ -155,6 +155,7 @@
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/kimminkuk/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
