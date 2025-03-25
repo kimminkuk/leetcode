@@ -1,3 +1,7 @@
+# 생각
+  - 그래프 문제가 약해서, easy좀 푸는 중.. visited 개념, start <-> end point 설계가 잘 안되네
+  - 이 문제는 간단하게 생각, dict에서 value와 edges의 개수가 일치하면 통과
+
 <h2><a href="https://leetcode.com/problems/find-center-of-star-graph">1916. Find Center of Star Graph</a></h2><h3>Easy</h3><hr><p>There is an undirected <strong>star</strong> graph consisting of <code>n</code> nodes labeled from <code>1</code> to <code>n</code>. A star graph is a graph where there is one <strong>center</strong> node and <strong>exactly</strong> <code>n - 1</code> edges that connect the center node with every other node.</p>
 
 <p>You are given a 2D integer array <code>edges</code> where each <code>edges[i] = [u<sub>i</sub>, v<sub>i</sub>]</code> indicates that there is an edge between the nodes <code>u<sub>i</sub></code> and <code>v<sub>i</sub></code>. Return the center of the given star graph.</p>
