@@ -1,3 +1,7 @@
+# 생각
+  - 간단한 BFS문제, visited 개념으로 무한loop 빠지지 않게 조심..
+  - start <-> end 두 개를 전부 신경쓰는걸 생각하지 못해서 한번 틀림
+
 <h2><a href="https://leetcode.com/problems/find-if-path-exists-in-graph">2121. Find if Path Exists in Graph</a></h2><h3>Easy</h3><hr><p>There is a <strong>bi-directional</strong> graph with <code>n</code> vertices, where each vertex is labeled from <code>0</code> to <code>n - 1</code> (<strong>inclusive</strong>). The edges in the graph are represented as a 2D integer array <code>edges</code>, where each <code>edges[i] = [u<sub>i</sub>, v<sub>i</sub>]</code> denotes a bi-directional edge between vertex <code>u<sub>i</sub></code> and vertex <code>v<sub>i</sub></code>. Every vertex pair is connected by <strong>at most one</strong> edge, and no vertex has an edge to itself.</p>
 
 <p>You want to determine if there is a <strong>valid path</strong> that exists from vertex <code>source</code> to vertex <code>destination</code>.</p>
