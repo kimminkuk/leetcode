@@ -52,6 +52,7 @@
 | [0009-palindrome-number](https://github.com/kimminkuk/leetcode/tree/master/0009-palindrome-number) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2556-convert-the-temperature](https://github.com/kimminkuk/leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kimminkuk/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimminkuk/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
