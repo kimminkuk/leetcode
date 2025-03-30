@@ -25,6 +25,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 ## Depth-First Search
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
+| [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -67,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimminkuk/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -81,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kimminkuk/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
