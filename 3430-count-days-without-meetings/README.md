@@ -1,3 +1,8 @@
+# 생각
+  - 아.....SORT해서 했으면 편하게 했는데 이 생각을 착각해서 진짜, start <-> end 규칙 만들다가 다 틀림
+  - 다른 솔루션도 확인해보자...
+  - sort하지 않고 순서대로 START<->END 하려고 헀던건 진짜 반성..
+
 <h2><a href="https://leetcode.com/problems/count-days-without-meetings">3430. Count Days Without Meetings</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>days</code> representing the total number of days an employee is available for work (starting from day 1). You are also given a 2D array <code>meetings</code> of size <code>n</code> where, <code>meetings[i] = [start_i, end_i]</code> represents the starting and ending days of meeting <code>i</code> (inclusive).</p>
 
 <p>Return the count of days when the employee is available for work but no meetings are scheduled.</p>
