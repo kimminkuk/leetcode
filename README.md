@@ -20,6 +20,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimminkuk/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/kimminkuk/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kimminkuk/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kimminkuk/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Greedy
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
+| [3430-count-days-without-meetings](https://github.com/kimminkuk/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
