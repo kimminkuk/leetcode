@@ -12,6 +12,7 @@
 | [2048-build-array-from-permutation](https://github.com/kimminkuk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kimminkuk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kimminkuk/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -177,6 +178,10 @@
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/kimminkuk/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
 
 
