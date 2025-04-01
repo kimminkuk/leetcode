@@ -1,3 +1,9 @@
+# 생각
+  - 조금 안풀려서 솔루션 참고함
+  - DP 조건 만들다가 실패함 (DP로 생각할 시, 역순 부터 좀 생각하기...)
+  - 이건 recursive로 TREE구조 그려보면 생각보다 쉽게 조건 만들 수 있었다... 근데 brainpower를 이해못해서 너무 시간 잘못씀
+  - 아직도 이해가 안가네 영어라서 그런가 쩝, 무튼 brainpower + i + 1 조건 찾는게 너무 어려웠음
+
 <h2><a href="https://leetcode.com/problems/solving-questions-with-brainpower">2262. Solving Questions With Brainpower</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> 2D integer array <code>questions</code> where <code>questions[i] = [points<sub>i</sub>, brainpower<sub>i</sub>]</code>.</p>
 
 <p>The array describes the questions of an exam, where you have to process the questions <strong>in order</strong> (i.e., starting from question <code>0</code>) and make a decision whether to <strong>solve</strong> or <strong>skip</strong> each question. Solving question <code>i</code> will <strong>earn</strong> you <code>points<sub>i</sub></code> points but you will be <strong>unable</strong> to solve each of the next <code>brainpower<sub>i</sub></code> questions. If you skip question <code>i</code>, you get to make the decision on the next question.</p>
