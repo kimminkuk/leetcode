@@ -1,3 +1,5 @@
+# 생각
+  - 자존감채우기용
 <h2><a href="https://leetcode.com/problems/binary-tree-inorder-traversal">94. Binary Tree Inorder Traversal</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes&#39; values</em>.</p>
 
 <p>&nbsp;</p>
