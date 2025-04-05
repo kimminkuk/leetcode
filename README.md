@@ -9,6 +9,7 @@
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kimminkuk/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/kimminkuk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kimminkuk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -60,6 +61,7 @@
 | [0009-palindrome-number](https://github.com/kimminkuk/leetcode/tree/master/0009-palindrome-number) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/kimminkuk/leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kimminkuk/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimminkuk/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -154,6 +156,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kimminkuk/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kimminkuk/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -193,6 +196,18 @@
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
 
 
