@@ -9,6 +9,7 @@
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kimminkuk/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/kimminkuk/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/kimminkuk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kimminkuk/leetcode/tree/master/2058-concatenation-of-array) |
@@ -208,6 +209,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kimminkuk/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/kimminkuk/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
