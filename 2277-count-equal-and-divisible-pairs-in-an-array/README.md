@@ -1,3 +1,8 @@
+# 생각
+ - O(n*m)으로는 바로 풀기 가능
+ - 근데, dict로 풀려고 노력함... 솔루션 참고했음
+ - i < j 라는 조건을 만들지 못해서 못 풀었는데, 솔루션 보니깐 dict의 값을 저장한 부분을 앞으로 해서 (i)처럼 사용해서 조건을 쉽게 만드는 것을 확인
+ - 
 <h2><a href="https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array">2277. Count Equal and Divisible Pairs in an Array</a></h2><h3>Easy</h3><hr>Given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>, return <em>the <strong>number of pairs</strong></em> <code>(i, j)</code> <em>where</em> <code>0 &lt;= i &lt; j &lt; n</code>, <em>such that</em> <code>nums[i] == nums[j]</code> <em>and</em> <code>(i * j)</code> <em>is divisible by</em> <code>k</code>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
