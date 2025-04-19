@@ -30,6 +30,7 @@
 | [3430-count-days-without-meetings](https://github.com/kimminkuk/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kimminkuk/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kimminkuk/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kimminkuk/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/kimminkuk/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/kimminkuk/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
 | ------- |
