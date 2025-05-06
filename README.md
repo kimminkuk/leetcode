@@ -80,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kimminkuk/leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kimminkuk/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimminkuk/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -210,6 +212,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
