@@ -31,6 +31,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kimminkuk/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kimminkuk/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kimminkuk/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@
 | ------- |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | ------- |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kimminkuk/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Graph
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/kimminkuk/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -228,6 +232,10 @@
 | [1656-count-good-triplets](https://github.com/kimminkuk/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/kimminkuk/leetcode/tree/master/2998-count-symmetric-integers) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
 
 
