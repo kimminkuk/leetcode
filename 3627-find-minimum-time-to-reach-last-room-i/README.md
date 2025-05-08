@@ -1,3 +1,9 @@
+# 생각
+  - 아..heap 익숙하지 않아서, 생각 못함.
+  - bfs로 접근해서 푸는데, 문제 이해 제대로 못해서 테스트케이스에서 계속 막힘
+  - 근데 문제 이해가 나만 안되는거 처럼 느껴지지는 않네 설명이 이상함;;;
+  - 그냥 일반적인 다익스트라 개념 문제였음
+  - 
 <h2><a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i">3627. Find Minimum Time to Reach Last Room I</a></h2><h3>Medium</h3><hr><p>There is a dungeon with <code>n x m</code> rooms arranged as a grid.</p>
 
 <p>You are given a 2D array <code>moveTime</code> of size <code>n x m</code>, where <code>moveTime[i][j]</code> represents the <strong>minimum</strong> time in seconds when you can <strong>start moving</strong> to that room. You start from the room <code>(0, 0)</code> at time <code>t = 0</code> and can move to an <strong>adjacent</strong> room. Moving between adjacent rooms takes <em>exactly</em> one second.</p>
