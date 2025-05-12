@@ -26,6 +26,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimminkuk/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kimminkuk/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kimminkuk/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kimminkuk/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/kimminkuk/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimminkuk/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/kimminkuk/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kimminkuk/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
