@@ -25,6 +25,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/kimminkuk/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kimminkuk/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimminkuk/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kimminkuk/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kimminkuk/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kimminkuk/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kimminkuk/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Depth-First Search
 |  |
@@ -94,6 +96,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/kimminkuk/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -231,6 +234,7 @@
 | ------- |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
 |  |
 | ------- |
