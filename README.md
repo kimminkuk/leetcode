@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kimminkuk/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -235,6 +236,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -258,6 +260,10 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimminkuk/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kimminkuk/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 
