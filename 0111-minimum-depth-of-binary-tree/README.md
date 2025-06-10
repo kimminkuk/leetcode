@@ -1,3 +1,6 @@
+# 생각
+ - level을 1씩 증가 시키고, child가 없을 때만 min 값 갱신. 그런데 속도가 많이 느리네..?
+ - BFS로도 풀어보기 queue 사용해서 한층씩 내리면서, child 없는 node에서 level 취득하면 될듯?
 <h2><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree">111. Minimum Depth of Binary Tree</a></h2><h3>Easy</h3><hr><p>Given a binary tree, find its minimum depth.</p>
 
 <p>The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.</p>
