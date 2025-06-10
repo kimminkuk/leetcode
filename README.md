@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kimminkuk/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/kimminkuk/leetcode/tree/master/0118-pascals-triangle) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kimminkuk/leetcode/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/kimminkuk/leetcode/tree/master/0118-pascals-triangle) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
