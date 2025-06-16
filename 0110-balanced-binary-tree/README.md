@@ -1,3 +1,6 @@
+# 생각
+  - 음... balanced tree에 대한 개념을 파악 못했고
+  - return 할 때, max() + 1 해주는 접근을 생각하지 못함 ㅠ
 <h2><a href="https://leetcode.com/problems/balanced-binary-tree">110. Balanced Binary Tree</a></h2><h3>Easy</h3><hr><p>Given a binary tree, determine if it is <span data-keyword="height-balanced"><strong>height-balanced</strong></span>.</p>
 
 <p>&nbsp;</p>
