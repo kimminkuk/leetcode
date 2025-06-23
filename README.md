@@ -59,6 +59,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -198,6 +201,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
