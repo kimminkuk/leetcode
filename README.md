@@ -62,6 +62,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kimminkuk/leetcode/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -196,6 +198,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -210,6 +213,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kimminkuk/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
@@ -276,6 +280,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
