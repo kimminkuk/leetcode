@@ -1,19 +1,18 @@
 class Solution:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
-        #sr -> col, y   sc -> row, x
-        maxX = len(image[0])
-        maxY = len(image)
-        target = image[sr][sc]
-        if target == newColor:
-            return image
-        
-        def dfs(x, y):
-            if 0 <= x < maxX and 0 <= y < maxY and target == image[y][x]:
-                image[y][x] = newColor
-                dfs(x-1, y) #left
-                dfs(x+1, y) #right
-                dfs(x, y-1) #up
-                dfs(x, y+1) #down
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+        visited = []
+        ans_image = image
+        ori_color = image[sr][sc]
+        def fill_image(image, row, col, color, visited):
+            if (row, col) not in visited:
+                if 0 <= row < len(image) and 0 <= col < len(image[0]) and image[row][col] == ori_color: 
+                    visited.append((row, col))                    
+                    image[row][col] = color
+                    fill_image(image, row+1, col, color, visited)
+                    fill_image(image, row-1, col, color, visited)
+                    fill_image(image, row, col+1, color, visited)
+                    fill_image(image, row, col-1, color, visited)
                 
-        dfs(sc, sr)
-        return image
+        
+        fill_image(ans_image, sr, sc, color, visited)    
+        return ans_image    
