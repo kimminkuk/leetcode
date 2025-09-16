@@ -65,6 +65,7 @@
 | [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kimminkuk/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -77,6 +78,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/kimminkuk/leetcode/tree/master/0733-flood-fill) |
+| [1005-univalued-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kimminkuk/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -200,6 +202,7 @@
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -215,6 +218,7 @@
 | [0226-invert-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/kimminkuk/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
