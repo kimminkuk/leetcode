@@ -95,6 +95,7 @@
 | [0009-palindrome-number](https://github.com/kimminkuk/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
+| [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/kimminkuk/leetcode/tree/master/2050-count-good-numbers) |
@@ -279,6 +280,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kimminkuk/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kimminkuk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
+| [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
@@ -306,6 +308,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
 
 
