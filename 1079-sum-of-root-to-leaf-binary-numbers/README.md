@@ -1,3 +1,7 @@
+# 생각
+ - 백트레킹으로 풀었는데, 동작 시간이 매우 올래걸림
+ - 다른 답변 보고 생각 필요
+
 <h2><a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers">1079. Sum of Root To Leaf Binary Numbers</a></h2><h3>Easy</h3><hr><p>You are given the <code>root</code> of a binary tree where each node has a value <code>0</code> or <code>1</code>. Each root-to-leaf path represents a binary number starting with the most significant bit.</p>
 
 <ul>
