@@ -116,6 +116,7 @@
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kimminkuk/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1764-maximum-repeating-substring](https://github.com/kimminkuk/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimminkuk/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kimminkuk/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -284,6 +285,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kimminkuk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0868-push-dominoes](https://github.com/kimminkuk/leetcode/tree/master/0868-push-dominoes) |
 | [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/kimminkuk/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2262-solving-questions-with-brainpower](https://github.com/kimminkuk/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kimminkuk/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
@@ -319,6 +321,10 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/kimminkuk/leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
 
 
