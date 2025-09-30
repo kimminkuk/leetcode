@@ -70,6 +70,7 @@
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kimminkuk/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kimminkuk/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/kimminkuk/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -211,6 +212,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kimminkuk/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kimminkuk/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimminkuk/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/kimminkuk/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
