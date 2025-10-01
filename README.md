@@ -100,6 +100,7 @@
 | [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 | [0944-smallest-range-i](https://github.com/kimminkuk/leetcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/kimminkuk/leetcode/tree/master/1086-divisor-game) |
+| [1642-water-bottles](https://github.com/kimminkuk/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimminkuk/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/kimminkuk/leetcode/tree/master/2050-count-good-numbers) |
@@ -136,6 +137,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kimminkuk/leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/kimminkuk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kimminkuk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimminkuk/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
