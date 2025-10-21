@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/kimminkuk/leetcode/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/kimminkuk/leetcode/tree/master/0768-partition-labels) |
@@ -288,6 +289,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kimminkuk/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kimminkuk/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kimminkuk/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -300,6 +302,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kimminkuk/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/kimminkuk/leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimminkuk/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
